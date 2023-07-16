@@ -31,4 +31,6 @@ Three things I would do to do improve the quality of the codebase in order of im
 
 ## Improvement Implemented:
 
-For this submission, I chose to improve the app by adding the ability to encode URL's as QR codes.
+For this submission, I chose to improve the app by adding the ability to encode URL's as QR codes. Each URL in the UrlList also shows a show/hide button, which displays or hides the corresponding QR code when clicked.
+![Screenshot 2023-07-16 at 5 11 21 PM](https://github.com/bobbyslug/everything/assets/31357414/43654972-3b05-4fe2-a1ba-afdea5a7ece8)
+![Screenshot 2023-07-16 at 5 11 25 PM](https://github.com/bobbyslug/everything/assets/31357414/2ebd35c8-caf6-4552-94a8-0a07d0e76479)
